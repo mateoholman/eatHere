@@ -1,4 +1,4 @@
-#eatHere
+# eatHere
 A SPA to decide where you should eat when you can't decide yourself
 
 ## Stories
