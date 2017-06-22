@@ -15,4 +15,4 @@ As a user, I should be able to...
 *
 
 ## Notes
-1. Uses the [Yelp v3 API] (https://www.yelp.com/developers/documentation/v3/business_search)
+1. Uses the (Yelp v3 API) [https://www.yelp.com/developers/documentation/v3/business_search]
