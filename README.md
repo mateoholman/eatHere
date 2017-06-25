@@ -12,7 +12,8 @@ As a user, I should be able to...
 * Create some user stories
 * Draft some mock-ups to guide the development
 * Scaffold the front end quickly using create-react-app
-*
+* Setup testing environment for TDD
+* Write first tests
 
 ## Notes
 1. Uses the [Yelp v3 API](https://www.yelp.com/developers/documentation/v3/business_search)
